@@ -1,6 +1,6 @@
 # DNA
 ####  **Software supports** 
-Win10 Wsl/Wsl2 Ubuntu 20.04 x86_64[x64]  WSL2 or later
+Win10 Wsl/Wsl2 Ubuntu 20.04 x86_64[x64] or later
 
 #Download this tool [copy the following command and execute it in the terminal]
 
